@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://natewright.github.io/LeveledLogicWebsite/"
 title: Leveled Logic
 paginate: 5
 theme: PaperMod
@@ -94,7 +94,7 @@ menu:
       weight: 10
     - identifier: example
       name: example.org
-      url: https://example.org
+      url: https://natewright.github.io/LeveledLogicWebsite
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
