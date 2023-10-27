@@ -88,10 +88,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: /posts/
+    - identifier: notes
+      name: notes
+      url: /notes/
       weight: 10
+    - identifier: srs
+      name: srs
+      url: /srs/
+      weight: 11
     - identifier: example
       name: example.org
       url: https://natewright.github.io/LeveledLogicWebsite
