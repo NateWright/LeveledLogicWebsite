@@ -96,8 +96,8 @@ menu:
       name: srs
       url: /srs/
       weight: 11
-    - identifier: example
-      name: example.org
+    - identifier: LeveledLogic
+      name: LeveledLogic
       url: https://natewright.github.io/LeveledLogicWebsite
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
