@@ -19,7 +19,7 @@ params:
   title: Leveled Logic
   description: "Leveled Logic is a game made for Software Engineering 1"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Team 8
   # author: ["Me", "You"] # multiple authors
   images: [""]
   DateFormat: "January 2, 2006"
@@ -88,14 +88,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
     - identifier: notes
       name: notes
       url: /notes/
-      weight: 10
-    - identifier: srs
-      name: srs
-      url: /srs/
-      weight: 11
+      weight: 25
+    - identifier: project
+      name: project
+      url: /project/
+      weight: 20
     - identifier: LeveledLogic
       name: LeveledLogic
       url: https://natewright.github.io/LeveledLogicWebsite
