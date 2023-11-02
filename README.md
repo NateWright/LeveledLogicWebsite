@@ -1,5 +1,11 @@
 [Website](https://natewright.github.io/LeveledLogicWebsite/)
 
+# Getting the repo
+
+```bash
+git clone https://github.com/NateWright/LeveledLogicWebsite.git --recurse-submodules
+```
+
 # Useful commands
 ```bash
 # Create new post
