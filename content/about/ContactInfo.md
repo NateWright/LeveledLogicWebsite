@@ -16,15 +16,15 @@ draft: false
 
 ### Eric Ta
  > ![Eric Ta](/LeveledLogicWebsite/contactInfo/Eric.jpg) 
- > Quirk Jester  
+ > Court Jester  
  > Eric_Ta@student.uml.edu  
 
 ### Connor Klein
  > ![Connor Klein](/LeveledLogicWebsite/contactInfo/connor.png) 
- > Project Lead  
+ > Substitute Teacher
  > Connor_Klein@student.uml.edu  
 
 ### Gabriel Shahrouzi
- > ![Jonathan Kang](/LeveledLogicWebsite/contactInfo) 
- > Project Lead  
- > Gabriel_Shahrouzi@student.uml.edu  
+ > ![Jonathan Kang](/LeveledLogicWebsite/contactInfo/Gabe.png) 
+ > Golden Boy (Missing)
+ > Gabriel_Shahrouzi@student.uml.edu
