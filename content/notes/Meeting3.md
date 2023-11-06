@@ -1,7 +1,8 @@
 ---
-title: "Meeting 3"
+title: "Meeting 03"
 date: 2023-11-01T13:38:47-04:00
 draft: false
+author: "Nate Wright"
 ---
 
  * We made our Use Case Diagrams (UML)
