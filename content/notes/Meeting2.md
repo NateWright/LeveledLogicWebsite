@@ -1,7 +1,8 @@
 ---
-title: "Meeting 2"
+title: "Meeting 02"
 date: 2023-11-01T13:35:36-04:00
 draft: false
+author: "Nate Wright"
 ---
 
  * We discussed about doing work on GitHub.  
