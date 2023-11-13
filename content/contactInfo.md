@@ -33,7 +33,7 @@ draft: false
 
 
 ### Gabriel Shahrouzi
- > ![Jonathan Kang](/LeveledLogicWebsite/contactInfo/Gabe.png) 
+ > ![Jonathan Kang](/LeveledLogicWebsite/contactInfo/gabe.jpeg) 
  > Light Mode Connoisseur  
  > Gabriel_Shahrouzi@student.uml.edu  
  > [Github](https://github.com/gShahr)  
