@@ -1,8 +1,7 @@
 ---
-title: "Meeting 05"
-date: 2023-11-13T11:31:51 -05:00
+title: "Meeting07"
+date: 2023-11-13T11:38:05-05:00
 draft: false
-author: "Gabriel Shahrouzi"
 ---
 
 * November 13th 2023:
