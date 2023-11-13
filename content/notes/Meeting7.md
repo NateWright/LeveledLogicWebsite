@@ -13,3 +13,11 @@ draft: false
 * Uploaded meeting notes for previous week
 * Discussed about Website Skeleton Design, making sure we meet all requirements outline
 * Jonathan met with Professor McPherson to discuss the project
+* UI Elements needed:
+   * Main Menu
+   * Level Select Menu
+   * Reference Menu
+   * Credits Screen
+   * Pause Menu
+   * Finished Level Menu
+   * Prototype gate storage
