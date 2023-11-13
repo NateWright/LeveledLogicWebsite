@@ -7,7 +7,7 @@ draft: false
 ### Nathan Wright
  > ![Nathan Wright](/LeveledLogicWebsite/contactInfo/nathan_wright_headshot.webp) 
  > Project Lead  
- > Nathan_Wright1@student.uml.edu
+ > Nathan_Wright1@student.uml.edu  
  > [Website](https://nwright.tech)  
 
 
@@ -27,13 +27,13 @@ draft: false
 
 ### Connor Klein
  > ![Connor Klein](/LeveledLogicWebsite/contactInfo/connor.png) 
- > Substitute Teacher
+ > Substitute Teacher  
  > Connor_Klein@student.uml.edu  
  > [Github](https://github.com/Yodude2002)
 
 
 ### Gabriel Shahrouzi
  > ![Jonathan Kang](/LeveledLogicWebsite/contactInfo/Gabe.png) 
- > Golden Boy (Missing)
+ > Light Mode Connoisseur  
  > Gabriel_Shahrouzi@student.uml.edu  
- > [Github](https://github.com/gShahr)
+ > [Github](https://github.com/gShahr)  
