@@ -88,18 +88,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: about
-      name: about
-      url: /about/
+    - identifier: project
+      name: project
+      url: /project/
       weight: 10
+    - identifier: releases
+      name: releases
+      url: /releases/
+      weight: 20
     - identifier: notes
       name: notes
       url: /notes/
       weight: 25
-    - identifier: project
-      name: project
-      url: /project/
-      weight: 20
+    - identifier: the-team
+      name: the team
+      url: /contactInfo/
+      weight: 29
     - identifier: LeveledLogic
       name: LeveledLogic
       url: https://natewright.github.io/LeveledLogicWebsite
