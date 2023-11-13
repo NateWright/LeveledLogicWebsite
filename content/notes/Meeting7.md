@@ -10,4 +10,6 @@ draft: false
 * Refactored some parts of the class diagram
 * Talked more about the wire class and various design implementations
 * Submitted class and sequence diagrams to Blackboard
+* Uploaded meeting notes for previous week
+* Discussed about Website Skeleton Design, making sure we meet all requirements outline
 * Jonathan met with Professor McPherson to discuss the project
