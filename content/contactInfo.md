@@ -20,20 +20,20 @@ draft: false
 
 ### Eric Ta
  > ![Eric Ta](/LeveledLogicWebsite/contactInfo/Eric.jpg) 
- > Court Jester  
+ > Game Designer  
  > Eric_Ta@student.uml.edu  
  > [Github](https://github.com/EricWildArchive)  
 
 
 ### Connor Klein
  > ![Connor Klein](/LeveledLogicWebsite/contactInfo/connor.png) 
- > Substitute Teacher  
+ > Game Developer  
  > Connor_Klein@student.uml.edu  
  > [Github](https://github.com/Yodude2002)
 
 
 ### Gabriel Shahrouzi
  > ![Jonathan Kang](/LeveledLogicWebsite/contactInfo/gabe.jpeg) 
- > Light Mode Connoisseur  
+ > Game Designer  
  > Gabriel_Shahrouzi@student.uml.edu  
  > [Github](https://github.com/gShahr)  
