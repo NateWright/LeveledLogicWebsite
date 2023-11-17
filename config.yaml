@@ -42,6 +42,9 @@ params:
   showtoc: false
   tocopen: false
 
+  mainSections:
+    - project
+
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
