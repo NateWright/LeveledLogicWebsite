@@ -4,4 +4,4 @@ title: "Slides"
 draft: false
 ---
 
-temp
+![Slides](/LeveledLogicWebsite/slides.pdf)
