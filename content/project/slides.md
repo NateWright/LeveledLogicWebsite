@@ -4,4 +4,4 @@ title: "Slides"
 draft: false
 ---
 
-![Slides](/LeveledLogicWebsite/slides.pdf)
+[Slides](/LeveledLogicWebsite/slides.pdf)
